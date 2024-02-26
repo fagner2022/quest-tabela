@@ -1,0 +1,32 @@
+ th, td {
+    border: 2px solid;
+    padding: 15px;
+    margin: 10px;
+  }
+
+.moda {
+    padding: 20px;
+    margin: 30px;
+    font-size: 20px;
+}
+
+.casa {
+    padding: 20px;
+    margin: 30px;
+    font-size: 20px;
+}
+.cabecalho2{
+    background-color:  #00C4B4;
+    color: #ffffff;
+}
+.cabecalho1{
+    background-color:#BB86FC;
+    color: #ffffff;
+    padding: 30px;
+    margin: 30px;
+}
+
+td {
+    background-color:  #424250;
+    color: #ffffff;
+}
